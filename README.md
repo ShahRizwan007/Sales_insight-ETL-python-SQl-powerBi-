@@ -40,7 +40,7 @@ Finally, I created an interactive Power BI dashboard for easy understanding of t
 
 **dataset link**:https://www.kaggle.com/datasets/ankitbansal06/retail-orders
 **PowerBi dashboard Link**:https://app.powerbi.com/view?r=eyJrIjoiMTNjMjE0YTUtN2M4Ni00NzU4LTg0ZTctZTNkMjIyOGMwMGFiIiwidCI6IjM3YjRlMWVmLTg4NjgtNDliZC04ZmExLTg1M2I4MTNkNTY0ZSJ9
-
+**Linkedin post**:https://www.linkedin.com/feed/update/urn:li:activity:7243597460105814016/
 **follow me on github and linkedin for more useful data analyst project**
 
 **github profile**:https://github.com/ShahRizwan007/Sales_insight-ETL-python-SQl-powerBi-
