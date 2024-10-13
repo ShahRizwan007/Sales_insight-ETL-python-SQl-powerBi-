@@ -46,7 +46,8 @@ Finally, I created an interactive Power BI dashboard for easy understanding of t
 
 **follow me on github and linkedin for more useful data analyst project**
 
-**github profile**:https://github.com/ShahRizwan007/Sales_insight-ETL-python-SQl-powerBi-
+**github profile**:https://github.com/ShahRizwan007/Sales_insight-ETL-python-SQl-powerBi-  
+
 **linkedin profile**:www.linkedin.com/in/shahrizwan819
 
 
